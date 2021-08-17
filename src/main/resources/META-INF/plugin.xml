@@ -1,0 +1,19 @@
+<idea-plugin>
+    <id>jupiterpi.pilang-language-support</id>
+    <name>Pilang Language Support</name>
+    <vendor email="jupiterpi@outlook.de" url="mailto:jupiterpi@outlook.de">JupiterPi</vendor>
+
+    <description>IntelliJ language support for Pilang. See https://github.com/JupiterPi/pilang</description>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
